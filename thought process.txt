@@ -1,0 +1,4 @@
+finish the initial desktop design 
+
+get the data from json file
+
